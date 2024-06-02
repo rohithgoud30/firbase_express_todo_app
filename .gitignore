@@ -1,0 +1,15 @@
+# Dependency directories
+node_modules/
+
+# Environment variables
+.env
+
+# macOS system files
+.DS_Store
+
+# Package lock files
+package-lock.json
+
+# Firebase admin SDK JSON key files
+**/*firebase-adminsdk*.json
+
